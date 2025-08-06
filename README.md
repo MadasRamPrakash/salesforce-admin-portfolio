@@ -1,3 +1,8 @@
+![Status](https://img.shields.io/badge/status-Complete-brightgreen)
+![Tech Stack](https://img.shields.io/badge/built%20with-Supabase%20%7C%20SQL%20%7C%20Replit-blue)
+![Use Case](https://img.shields.io/badge/usecase-Salesforce%20Admin%20Portfolio-purple)
+![Made with Lovable](https://img.shields.io/badge/AI%20Tool-Lovable%20AI-orange)
+
 # 🧰 Salesforce Admin Portfolio Dashboard
 
 A real-world simulation of key Salesforce Admin tasks built using Supabase. Includes SLA tracking, auto-assignment, dashboarding, and technician workload management.
@@ -32,7 +37,9 @@ This dashboard simulates real admin workflows including automation, dashboarding
 
 ## 📸 Screenshots
 
-_(You can upload screenshots later here)_
+_(![Image](https://github.com/user-attachments/assets/8cbd4f64-c45f-4d89-9289-2d81b56dcc03)
+
+![Image](https://github.com/user-attachments/assets/9ce18ac7-a905-47ac-9c33-6cbef16ae2ab))_
 - SLA breach alert example  
 - Technician workload view  
 - Dashboard status panel  
@@ -41,8 +48,7 @@ _(You can upload screenshots later here)_
 
 ## 🚀 Live Demo
 
-(Optional: Add a Loom recording or Netlify/hosted link)  
-`[Watch Demo](https://your-live-demo-link.com)`
+(Optional: https://salesforce-admin-showcase.lovable.app/
 
 ---
 
